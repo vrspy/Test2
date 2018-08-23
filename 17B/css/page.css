@@ -1,0 +1,21 @@
+﻿body {
+	background-color: #fff;
+	text-align: center;
+}
+
+#circlr {
+	/* [disabled]cursor: move; */
+	margin: 0 auto;
+	/* [disabled]min-height: 100px; */
+	/* [disabled]position: relative; */
+}
+
+#circlr #loader {
+  background: url(../images/loader.gif) center center no-repeat;
+  bottom: 0;
+  display: none;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
